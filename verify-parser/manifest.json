@@ -1,0 +1,15 @@
+{
+  "short_name": "Verify Parsers",
+  "name": "Verifify Parsers",
+  "icons": [
+    {
+      "src": "https://s3-ap-southeast-1.amazonaws.com/livehealthuser/images/Favicon.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
