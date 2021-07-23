@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/verify-parser/static/css/main.7e507907.chunk.css",
-    "main.js": "/verify-parser/static/js/main.c4de390d.chunk.js",
+    "main.css": "/verify-parser/static/css/main.cb70b937.chunk.css",
+    "main.js": "/verify-parser/static/js/main.612b4050.chunk.js",
     "runtime-main.js": "/verify-parser/static/js/runtime-main.2904775f.js",
     "static/css/2.4df217b3.chunk.css": "/verify-parser/static/css/2.4df217b3.chunk.css",
-    "static/js/2.988d4d18.chunk.js": "/verify-parser/static/js/2.988d4d18.chunk.js",
+    "static/js/2.cdc23ee6.chunk.js": "/verify-parser/static/js/2.cdc23ee6.chunk.js",
     "index.html": "/verify-parser/index.html",
-    "precache-manifest.b688ec03dafd925802240d170c795e59.js": "/verify-parser/precache-manifest.b688ec03dafd925802240d170c795e59.js",
+    "precache-manifest.b0765abc05d5f0f52fcc69416a049dea.js": "/verify-parser/precache-manifest.b0765abc05d5f0f52fcc69416a049dea.js",
     "service-worker.js": "/verify-parser/service-worker.js",
-    "static/js/2.988d4d18.chunk.js.LICENSE.txt": "/verify-parser/static/js/2.988d4d18.chunk.js.LICENSE.txt"
+    "static/js/2.cdc23ee6.chunk.js.LICENSE.txt": "/verify-parser/static/js/2.cdc23ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2904775f.js",
     "static/css/2.4df217b3.chunk.css",
-    "static/js/2.988d4d18.chunk.js",
-    "static/css/main.7e507907.chunk.css",
-    "static/js/main.c4de390d.chunk.js"
+    "static/js/2.cdc23ee6.chunk.js",
+    "static/css/main.cb70b937.chunk.css",
+    "static/js/main.612b4050.chunk.js"
   ]
 }
